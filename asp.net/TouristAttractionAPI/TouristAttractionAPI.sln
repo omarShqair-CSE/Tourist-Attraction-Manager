@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouristAttractionAPI", "TouristAttractionAPI\TouristAttractionAPI.csproj", "{0354FD94-21EB-4C86-8840-C6561A5DCF31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouristAttractionAPI", "TouristAttractionAPI\TouristAttractionAPI.csproj", "{EF8E96FD-78C6-4F54-B1B1-3FE0F9C76FFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0354FD94-21EB-4C86-8840-C6561A5DCF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0354FD94-21EB-4C86-8840-C6561A5DCF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0354FD94-21EB-4C86-8840-C6561A5DCF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0354FD94-21EB-4C86-8840-C6561A5DCF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8E96FD-78C6-4F54-B1B1-3FE0F9C76FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8E96FD-78C6-4F54-B1B1-3FE0F9C76FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8E96FD-78C6-4F54-B1B1-3FE0F9C76FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8E96FD-78C6-4F54-B1B1-3FE0F9C76FFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {59D7DF11-46F0-432D-9EB7-15FFCDFF9F6E}
+		SolutionGuid = {33894174-1D2E-48C4-AD32-8C07A6CE6A59}
 	EndGlobalSection
 EndGlobal

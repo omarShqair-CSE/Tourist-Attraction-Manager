@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TouristAttractionAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39d25b53ea86293a319505bf804091917d021201")]
 [assembly: System.Reflection.AssemblyProductAttribute("TouristAttractionAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TouristAttractionAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

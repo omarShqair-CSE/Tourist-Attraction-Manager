@@ -1,13 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
-using TouristAttractionAPI.Models;
-
-namespace TouristAttractionAPI.Data
+﻿namespace TouristAttractionAPI.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options)
-            : base(options) { }
-
-        public DbSet<Attraction> Attractions { get; set; }
     }
 }
